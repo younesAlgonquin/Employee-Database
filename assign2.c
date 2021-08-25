@@ -55,7 +55,7 @@ int number_employees = 150;
  *age and job description 
  * 
  * Version: 1.0
- * Author/Student Name: Younes Boutaleb
+
  **************************************************************************/
 
 int main()
